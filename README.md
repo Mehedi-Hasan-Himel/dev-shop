@@ -1,19 +1,45 @@
-# React + Vite
+# Softzino DevShop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[🌐 Live Demo](https://dev-shop-brown.vercel.app/) | [💻 Source Code](https://github.com/Mehedi-Hasan-Himel/dev-shop)
 
-Currently, two official plugins are available:
+**Softzino DevShop** is a modern, responsive e-commerce web application for programming books. Users can browse products, add them to the shopping cart, and proceed to checkout. The app is built using **React.js**, **Redux**, **React Router**, and **TailwindCSS** to ensure a smooth and user-friendly experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🛒 Features
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+- Browse a list of programming books with images, titles, and prices.
+- Add items to a shopping cart and view cart contents.
+- Navigate between pages using React Router.
+- Responsive design with TailwindCSS.
+- State management using Redux for cart functionality.
 
-Note: This will impact Vite dev & build performances.
+---
 
-## Expanding the ESLint configuration
+## 📚 Products List
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# dev-shop
+| Product Name | Price (৳) |
+|--------------|------------|
+| হাতেকলমে জাভাস্ক্রিপ্ট | 449 |
+| প্রোগ্রামিং কনটেস্ট ডেটা স্ট্রাকচার ও অ্যালগরিদম | 151 |
+| ৫২টি প্রোগ্রামিং সমস্যা ও সমাধান | 181 |
+| কম্পিউটার প্রোগ্রামিং-প্রথম খণ্ড | 201 |
+| ফুলস্ট্যাক ডেভেলপমেন্ট | 251 |
+| প্রোগ্রামিং এর আদ্যোপান্ত | 111 |
+| গ্রাফ অ্যালগরিদম | 121 |
+| প্রোগ্রামিং ক্যারিয়ার গাইড লাইন: এক ডজন প্রোগ্রামারের কথা | 220 |
+
+---
+
+## 🔧 Technologies Used
+
+- **Frontend:** React.js  
+- **Routing:** React Router DOM  
+- **State Management:** Redux  
+- **Styling:** TailwindCSS  
+- **Hosting:** Vercel  
+
+---
+
+## 📂 Project Structure
+
