@@ -44,12 +44,5 @@
 
 ---
 
-## 📂 Project Structure
 
-src/
-├── components/ # React components (ProductList, Cart, Header, etc.)
-├── stores/ # Redux store, actions, reducers
-├── pages/ # Application pages
-├── assets/ # Images and static files
-└── App.jsx # Main application component
 
