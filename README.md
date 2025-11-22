@@ -2,6 +2,9 @@
 
 [🌐 Live Demo](https://dev-shop-brown.vercel.app/) | [💻 Source Code](https://github.com/Mehedi-Hasan-Himel/dev-shop)
 
+![Softzino DevShop](assets/images/full-image.png)
+
+
 **Softzino DevShop** is a modern, responsive e-commerce web application for programming books. Users can browse products, add them to the shopping cart, and proceed to checkout. The app is built using **React.js**, **Redux**, **React Router**, and **TailwindCSS** to ensure a smooth and user-friendly experience.
 
 ---
@@ -42,4 +45,11 @@
 ---
 
 ## 📂 Project Structure
+
+src/
+├── components/ # React components (ProductList, Cart, Header, etc.)
+├── stores/ # Redux store, actions, reducers
+├── pages/ # Application pages
+├── assets/ # Images and static files
+└── App.jsx # Main application component
 
