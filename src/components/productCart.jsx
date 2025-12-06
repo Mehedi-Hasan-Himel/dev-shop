@@ -31,10 +31,10 @@ const ProductCart = (props) => {
           ৳<span className="text-2xl font-medium">{price}</span>
         </p>
         <button
-          className="bg-blue-500 cursor-pointer p-2 rounded-md text-sm hover:bg-blue-600 flex gap-2 hover:text-white"
+          className="bg-blue-500 cursor-pointer p-2 rounded-md text-sm hover:bg-blue-600 flex gap-2 text-white"
           onClick={handleAddToCart}
         >
-          <img src={iconCart} alt="" className="w-5" />
+          <img src={iconCart} alt="" className="w-5 text-white" />
           Add To Cart
         </button>
       </div>

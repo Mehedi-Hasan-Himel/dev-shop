@@ -24,10 +24,10 @@ const CartTab = () => {
         ))}
       </div>
       <div className="grid grid-cols-2">
-        <button className="bg-black text-white" onClick={handleCloseTabCart}>
+        <button className="bg-red-600 text-white cursor-pointer" onClick={handleCloseTabCart}>
           CLOSE
         </button>
-        <button className="bg-amber-600 text-white">CHECKOUT</button>
+        <button className="bg-green-600 text-white cursor-pointer">CHECKOUT</button>
       </div>
     </div>
   );
